@@ -24,7 +24,6 @@ This Pokemon Battle Simulator was developed by Tyler J. Netek, a graduate data s
 If you have any questions, feedback, or suggestions regarding the Pokemon Battle Simulator, feel free to reach out to Tyler J. Netek:
 
 - Email: tnetek6@gatech.edu
-- Phone: (832) 299-8200
 
 ## Disclaimer
 
